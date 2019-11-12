@@ -1,2 +1,0 @@
-# MinutesOfMeeting
-Created with CodeSandbox
